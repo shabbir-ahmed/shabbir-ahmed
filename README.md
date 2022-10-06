@@ -4,7 +4,7 @@ I am a full-time programmer in web development (Currently CTO). I have been in t
 
 I am a person who loves my job, enjoys the challenges that the complexity brings. I appreciate every client and truly treat their needs like my own.
 
-Dynamic web application development offering more than 7 years of experience in developing high end, mission-critical projects.
+Dynamic web application development offering more than 8 years of experience in developing high end, mission-critical projects.
 
 🔭 I’m currently working on [Salah Software](https://salah.software/)
 
