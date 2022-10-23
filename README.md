@@ -1,28 +1,24 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/20038775/125986173-3ac9fc5e-a8d2-4fc6-b526-bb6093f8adeb.gif" align="right">
 
-I am a full-time programmer in web development (Currently CTO). I have been in the field for 8 years. I am a blogger, developer, speaker, and overall thinker.
+### Hey, I'm Shabbir  ✨ 
 
-I am a person who loves my job, enjoys the challenges that the complexity brings. I appreciate every client and truly treat their needs like my own.
-
-Dynamic web application development offering more than 8 years of experience in developing high end, mission-critical projects.
-
-🔭 I’m currently working on [Salah Software](https://salah.software/)
+:eight_spoked_asterisk: &nbsp;  Working at <a href="https://salah.software/"> Salah Software</a> <br><br>
 
 ⚡ My tech house is [Fool Dev](https://fool-dev.com/)
 
-Thanks
+⚡ My tech house is [Tech Solutions](https://techsolutionshere.com/author/shabbir/)
 
-<!--
-**shabbir-ahmed/shabbir-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:eight_spoked_asterisk: &nbsp; Technical Fields:<br>
+&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Backend <br>
+&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Frontend <br>
+&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Mobile <br>
+&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Infrastructure <br>
+&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: AI <br>
+&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Tooling <br>
+&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Performance and Scaling
 
-Here are some ideas to get you started:
+# Reach Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://salah.software"><img src="https://user-images.githubusercontent.com/20038775/125981966-21ea6863-44b2-4728-ad55-f948dd30c2bd.png">
+<a href="https://www.linkedin.com/in/shabbir-ahmed-040487a1/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="left"></a>
+
