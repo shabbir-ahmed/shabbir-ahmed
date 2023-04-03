@@ -20,7 +20,7 @@
 # Reach Me:
 
 <a href="https://salah.software"><img src="https://user-images.githubusercontent.com/20038775/125981966-21ea6863-44b2-4728-ad55-f948dd30c2bd.png"></a><a href="https://www.linkedin.com/in/corei10/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="left"></a>
-<a href="https://stackoverflow.com/users/4172515/fool-dev?tab=profile" target="_blank"><img src="https://stackoverflow.design/assets/img/logos/talent/talent-logo.png" height="120px" width="400px" alt="StackOverflow" align="left"></a>
+<a href="https://stackoverflow.com/users/4172515/fool-dev?tab=profile"><img src="https://stackoverflow.design/assets/img/logos/talent/talent-logo.png" height="120px" width="400px" alt="StackOverflow" align="left"></a>
 
 
   
