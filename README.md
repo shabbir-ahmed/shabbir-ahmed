@@ -1,10 +1,8 @@
-<img src="https://user-images.githubusercontent.com/20038775/125986173-3ac9fc5e-a8d2-4fc6-b526-bb6093f8adeb.gif" align="right">
+<a href="https://salah.software/leadership-team/"><img src="https://user-images.githubusercontent.com/20038775/125986173-3ac9fc5e-a8d2-4fc6-b526-bb6093f8adeb.gif" align="right"></a>
 
 ### Hey, I'm Shabbir  ✨ 
 
 :eight_spoked_asterisk: &nbsp;  Working at <a href="https://salah.software/"> Salah Software</a> <br><br>
-
-⚡ My tech house is [Fool Dev](https://fool-dev.com/)
 
 ⚡ My tech house is [Tech Solutions](https://techsolutionshere.com/author/shabbir/)
 
