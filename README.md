@@ -1,35 +1,37 @@
-<a href="https://salah.software/leadership-team/"><img src="https://user-images.githubusercontent.com/20038775/125986173-3ac9fc5e-a8d2-4fc6-b526-bb6093f8adeb.gif" align="right"></a>
+# Hi, I'm Shabbir Ahmed 👋
 
-### Hey, I'm Shabbir  ✨ 
+**Senior Full-Stack Engineer | React · Next.js · TypeScript · Node.js · Ruby on Rails**
 
-:eight_spoked_asterisk: &nbsp;  Working at <a href="https://salah.software/"> Salah Software</a> <br><br>
+Based in Sylhet, Bangladesh · **Open to opportunities**
 
-⚡ My tech house is [Tech Solutions](https://techsolutionshere.com/author/shabbir/)
+I'm a hands-on software engineer with **12+ years of experience** building SaaS products, web applications, APIs, and backend systems. I was **CTO / Hands-on Technical Lead at Salah Software (2020–October 2026)**, combining architecture and development with engineering delivery and mentoring a team of 6–10 people.
 
-:eight_spoked_asterisk: &nbsp; Technical Fields:<br>
-&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Backend <br>
-&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Frontend <br>
-&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Mobile <br>
-&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Infrastructure <br>
-&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: AI <br>
-&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Tooling <br>
-&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Performance and Scaling
+I enjoy owning features end to end—from designing interfaces and APIs to database architecture, third-party integrations, deployment, and production support. My recent work includes payment and Shopify integrations as well as AI-enabled applications using embeddings, vector search, and retrieval-augmented generation (RAG).
 
-<h2 align="left"> 
-  <p align="left">
-  <img src="https://profile-counter.glitch.me/shabbir-ahmed/count.svg" border="0" title="free hit counter" alt="free hit counter">
-  </p>
-</h2>
+### 🛠️ Technical skills
 
-# Reach Me:
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS
+- **Backend:** Node.js, Express, NestJS, Ruby on Rails, PHP, CakePHP, Yii, Yii2
+- **Other frameworks:** Laravel, WordPress; Django (familiarity)
+- **Databases & search:** PostgreSQL, Prisma ORM, MySQL, MongoDB, Redis, Elasticsearch / OpenSearch, pgvector
+- **APIs & integrations:** REST, GraphQL, OAuth, JWT, webhooks, Stripe, PayPal, Shopify Admin GraphQL API
+- **AI:** OpenAI API, document processing, embeddings, vector search, RAG
+- **Cloud & delivery:** AWS, Docker, Linux, GitHub Actions, GitLab CI/CD
 
-<a href="https://salah.software"><img width="30px" height="30px" src="https://user-images.githubusercontent.com/20038775/125981966-21ea6863-44b2-4728-ad55-f948dd30c2bd.png"></a><a href="https://www.linkedin.com/in/corei10/"><img width="30px" height="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" alt="LinkedIn" align="left"></a>
-<a href="https://stackoverflow.com/users/4172515/fool-dev?tab=profile"><img width="100px" height="30px" src="https://stackoverflow.design/assets/img/logos/talent/talent-logo.png" height="120px" width="400px" alt="StackOverflow" align="left"></a>
+### 💼 Open to opportunities
 
+I'm interested in hands-on engineering roles where I can build reliable products, take ownership, and collaborate with strong product and engineering teams.
 
+**Roles:** Senior Full-Stack Engineer, Full-Stack Product Engineer, Senior Ruby on Rails Engineer, Backend Engineer, or Hands-on Technical Lead.
 
+**Work preferences:**
+- **International remote:** Fully remote positions that accept applicants based in Bangladesh
+- **Bangladesh:** Remote or hybrid positions
+- **International relocation:** Positions with visa sponsorship or relocation assistance
 
+### 🤝 Connect
 
-
-  
-  
+- **Email:** [ahmed.dplma@gmail.com](mailto:ahmed.dplma@gmail.com)
+- **LinkedIn:** [linkedin.com/in/corei10](https://www.linkedin.com/in/corei10/)
+- **GitHub:** [github.com/shabbir-ahmed](https://github.com/shabbir-ahmed)
+- **Stack Overflow:** [stackoverflow.com/users/4172515/fool-dev](https://stackoverflow.com/users/4172515/fool-dev?tab=profile)
