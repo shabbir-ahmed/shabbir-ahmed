@@ -1,10 +1,10 @@
 # Hi, I'm Shabbir Ahmed 👋
 
-**Senior Full-Stack Engineer | React · Next.js · TypeScript · Node.js · Ruby on Rails**
+**Senior Backend Engineer | React · Next.js · TypeScript · Node.js · Ruby on Rails**
 
 Based in Sylhet, Bangladesh · **Open to opportunities**
 
-I'm a hands-on software engineer with **12+ years of experience** building SaaS products, web applications, APIs, and backend systems. I was **CTO / Hands-on Technical Lead at Salah Software (2020–October 2026)**, combining architecture and development with engineering delivery and mentoring a team of 6–10 people.
+I'm a software engineer with **12+ years of experience** building SaaS products, web applications, APIs, and backend systems. I was **CTO / Technical Lead at Salah Software (2020–October 2026)**, combining architecture and development with engineering delivery and mentoring a team of 6–10 people.
 
 I enjoy owning features end to end—from designing interfaces and APIs to database architecture, third-party integrations, deployment, and production support. My recent work includes payment and Shopify integrations as well as AI-enabled applications using embeddings, vector search, and retrieval-augmented generation (RAG).
 
@@ -20,9 +20,9 @@ I enjoy owning features end to end—from designing interfaces and APIs to datab
 
 ### 💼 Open to opportunities
 
-I'm interested in hands-on engineering roles where I can build reliable products, take ownership, and collaborate with strong product and engineering teams.
+I'm interested in senior backend engineering roles where I can build reliable products, take ownership, and collaborate with strong product and engineering teams.
 
-**Roles:** Senior Full-Stack Engineer, Full-Stack Product Engineer, Senior Ruby on Rails Engineer, Backend Engineer, or Hands-on Technical Lead.
+**Roles:** Senior Backend Engineer, Full-Stack Engineer, Senior Ruby on Rails Engineer.
 
 **Work preferences:**
 - **International remote:** Fully remote positions that accept applicants based in Bangladesh
