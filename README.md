@@ -31,7 +31,7 @@ I'm interested in hands-on engineering roles where I can build reliable products
 
 ### 🤝 Connect
 
-- **Email:** [ahmed.dplma@gmail.com](mailto:ahmed.dplma@gmail.com)
-- **LinkedIn:** [linkedin.com/in/corei10](https://www.linkedin.com/in/corei10/)
+- **Email:** [shabbir.ahmed.rjs@gmail.com](mailto:shabbir.ahmed.rjs@gmail.com)
+- **LinkedIn:** [linkedin.com/in/shabbir-ahmed-js](https://www.linkedin.com/in/shabbir-ahmed-js/)
 - **GitHub:** [github.com/shabbir-ahmed](https://github.com/shabbir-ahmed)
 - **Stack Overflow:** [stackoverflow.com/users/4172515/fool-dev](https://stackoverflow.com/users/4172515/fool-dev?tab=profile)
